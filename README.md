@@ -1,11 +1,13 @@
-Table Data Code Generator
+#Table Data Code Generator
 
 This repository is the implementation of a fine-tuned version of meta-llama/CodeLlama-7b-Instruct-hf hosted on [CodeLlama-Instruct-Python-7b](https://huggingface.co/basharatwali/CodeLlama-Instruct-Python-7b)
 , optimized for generating concise, single-line Python code solutions to answer questions over tabular data. The model was fine-tuned using the CardiffNLP/DataBench dataset, which encompasses over 65 diverse tabular datasets, ensuring robust performance across various data types.
-Overview
+
+##Overview
 
 The goal of this project is to streamline the generation of Python code snippets tailored to query and manipulate tabular data. By leveraging the efficiency of TRL (Transformer Reinforcement Learning) and the memory-friendly QLoRA fine-tuning method, this model provides accurate and efficient one-liners that simplify routine data analysis tasks. Our evaluation shows that the model achieves a 76% accuracy rate on a dedicated evaluation set, demonstrating its practical utility in real-world scenarios.
-Pipeline
+
+##Pipeline
 
 The fine-tuning process involves the following steps:
 
@@ -27,7 +29,7 @@ The fine-tuning process involves the following steps:
     Evaluation:
     The fine-tuned model is rigorously evaluated on a set of test questions related to tabular data, achieving an accuracy of 76%.
 
-Features
+##Features
 
     Single-line Code Generation:
     Generates concise Python code snippets that address specific queries over tabular data.
