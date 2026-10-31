@@ -122,9 +122,6 @@ Requirements and notes:
 TableTalk_CodeGen/
 ├── notebooks/
 │   └── CodeLlama_Instruct_Finetuned.ipynb   # Data prep, QLoRA fine-tuning, inference, execution, scoring
-├── docs/
-│   ├── Final_Report.pdf                     # Project report (IEEE format)
-│   └── latex/                               # LaTeX source of the report and its figures
 ├── assets/                                  # TensorBoard charts and the Codabench leaderboard screenshot
 ├── results/
 │   └── codellama_7b_instruct/
