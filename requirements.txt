@@ -1,0 +1,17 @@
+# Inferred from the notebook imports. Versions were not recorded: the original run
+# (Google Colab, Python 3.10, December 2024) installed transformers, peft and accelerate
+# from their GitHub main branches, and datasets 3.2.0. TRL's SFTTrainer API has changed
+# since then, so a newer trl may need small argument changes.
+# `google.colab` is only used to mount Google Drive and is available on Colab only.
+torch
+transformers
+datasets
+peft
+trl
+bitsandbytes
+accelerate
+huggingface_hub
+pandas
+numpy
+fastparquet
+tensorboard

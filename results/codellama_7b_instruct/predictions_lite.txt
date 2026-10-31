@@ -1,0 +1,320 @@
+True
+None
+False
+True
+18
+52
+3
+0
+Angeloclv
+es
+Eva
+nan
+['Angeloclv', 'Don Vito', 'Toni Medrano']
+['es', 'es', 'es', 'es', 'es']
+['xAnubis', 'Astur']
+['reply', 'original']
+[0, 1, 0, 0, 0]
+[52, 49, 49]
+[0, 0, 1, 0]
+None
+False
+None
+False
+None
+5
+634
+0
+70.65
+Grass
+Metapod
+None
+Mega Charizard Y
+['Mega Charizard X', 'Mega Charizard Y', 'Mega Blastoise']
+['Charmander']
+['Fire', 'Grass']
+[]
+[120, 115, 115, 105, 105]
+[]
+[]
+[195, 205, 309, 314, 318, 395]
+True
+None
+False
+False
+0.5697833440569615
+19
+Account Supervisor
+0.11272433753052935
+Account Supervisor
+Academic Dean
+Adjuster
+.Net Architect
+[('.Net Architect', 0), ('.NET Developer', 1), ('.NET Programmer', 2), ('.NET Web Developer', 3), ('Academic Coordinator', 4), ('Academic Dean', 5), ('Academic Director', 6), ('Academic Vice President', 7), ('Account Director', 8), ('Account Executive', 9), ('Account Manager', 10), ('Account Specialist', 11), ('Account Supervisor', 12), ('Accountant', 13), ('Accountant Manager', 14), ('Accounting Consultant', 15), ('Accounting Manager', 16), ('Accounts Manager', 17), ('Actuary', 18), ('Adjuster', 19)]
+['.Net Architect', '.NET Developer', '.NET Web Developer', '.NET Programmer']
+['Academic Coordinator', 'Account Manager', 'Account Supervisor', 'Academic Vice President', 'Accountant Manager']
+['Adjuster', 'Academic Dean']
+[0.5127621526526613, 0.5127129631448789, 0.49846680892405115]
+[0.49663085367062315, 0.5129461589680323, 0.5237766950019473, 0.5311975583206661]
+[0.8779996066244389, 0.8375492543254273, 0.7913089943077534, 0.7525887812359702, 0.7459312734076868]
+[0.11272433753052935, 0.17518099555067201, 0.19629240820041405, 0.1996049877068619, 0.20980578866358174, 0.21277782344156265]
+True
+False
+True
+False
+17
+18.0
+29
+20
+Robert Bosch GmbH
+nan
+1
+nan
+['Amazon Technologies, Inc.', 'Soha Systems, Inc.', 'United Services Automobile Association (USAA)']
+['utility', 'design']
+['B2', 'B1']
+['habit, plant, foliage, flowers', 'soybean, plant, cultivar, soybean cultivar']
+[29, 28, 22, 21]
+[(9479476.0, 0), (9479477.0, 1), (9479478.0, 2), (9479479.0, 3), (9479480.0, 4), (9479481.0, 5), (9479482.0, 6), (9479483.0, 7), (9479484.0, 8), (9479485.0, 9), (9479486.0, 10), (9479487.0, 11), (9479488.0, 12), (9479489.0, 13), (9479490.0, 14), (9479491.0, 15), (9479492.0, 16), (9479493.0, 17), (9479494.0, 18), (9479495.0, 19)]
+None
+[9479476.0, 9479477.0, 9479494.0]
+None
+None
+Series([], Name: retweets<gx:number>, dtype: bool)
+author_id<gx:category> 939091    False dtype: bool
+30308042
+20
+62400
+None
+Joe Biden
+Joe Biden
+Joe Biden
+Joe Biden
+[('Joe Biden', 18), ('Joe Biden', 19), ('Joe Biden', 16)]
+[('Joe Biden', 0), ('Joe Biden', 1), ('Joe Biden', 2), ('Joe Biden', 3)]
+None
+[('Joe Biden', 16), ('Joe Biden', 17)]
+None
+[889245, 592545, 570822]
+None
+[62400, 50022]
+None
+False
+False
+None
+12579
+6
+48
+6
+nan
+nan
+nan
+nan
+['Highly Skilled']
+['Skilled', 'Skilled']
+['Skilled']
+None
+[12579, 9055, 8072]
+[48, 48, 42, 36]
+[3, 2, 2]
+[67, 61]
+False
+False
+True
+True
+0
+0.010090000000000002
+0
+0.0341
+avocado
+grapes
+1
+corn
+['avocado', 'corn', 'potato', 'banana', 'grapes']
+['avocado', 'lemon', 'tomato']
+['avocado', 'corn', 'kiwifruit', 'banana']
+['red apple', 'pear', 'green apple', 'pineapple', 'watermelon', 'strawberry']
+[1.6, 0.96, 0.9, 0.89, 0.69]
+[0.0066, 0.025, 0.0263]
+[0.1466, 0.015, 0.0052, 0.0033]
+[0.002, 0.0036, 0.0044, 0.0054, 0.0061, 0.0067]
+False
+False
+False
+0     False 1     False 2     False 3     False 4     False 5     False 6     False 7     False 8     False 9     False 10    False 11    False 12    False 13    False 14    False 15    False 16    False 17    False 18    False 19    False Name: User self-placement on Left-Right economic values axis, dtype: bool
+2
+86.8
+64.0
+nan
+['PP']
+nan
+nan
+nan
+[['PP'], ['Ciudadanos'], [], ['I am undeceided'], ['I prefer not to say']]
+['The party is the most competent', 'The party helps people like me', 'The party ideas are close to my own']
+['PP', 'Ciudadanos', 'Podemos']
+['I prefer not to say', 'Not completed Primary education', 'University degree']
+[84.0, 86.0, 83.0]
+[5.0, 10.0, 0.0]
+None
+[3.0, 1.0]
+None
+Series([], Name: Did you vote in the 2016 Presidential election? (Four years ago), dtype: bool)
+None
+None
+10
+0
+None
+3
+65+
+Donald Trump (Republican)
+None
+South Atlantic
+['NY', 'CA', 'FL', 'VA', 'MA', 'GA']
+['Industrial (e.g. construction, manufacturing, maintenance and repair)', 'Healthcare']
+['White (not Hispanic, Latino or Spanish origin)', 'Asian']
+['65+', '55-64', '45-54', '25-34', '18-24', '35-44']
+None
+[4.8778766802677, 3.664999524374923, 2.020156519394924, 1.675969378215086]
+[1, 4, 2, 6]
+[10.0, 11.0]
+True
+True
+True
+True
+19
+11.35
+28500
+0
+OK Cars
+nan
+nan
+Barcelona
+['Barcelona', 'Madrid', 'Navarra']
+['Blanco', 'Gris / Plata', 'Azul']
+['CITROEN', 'VOLKSWAGEN', 'FORD', 'BMW', 'SEAT']
+['Híbrido', 'Gas licuado (GLP)']
+[2017.0, 2016.0, 2014.0, 2001.0]
+[350000, 240000, 227000]
+[47, 32, 22, 21, 15]
+[306.0, 150.0, 150.0, 140.0, 130.0, 130.0]
+False
+None
+False
+None
+10
+9
+9
+0
+morning
+None
+Bread
+None
+['Bread', 'Pastry', 'Coffee']
+['Bread', 'Toast']
+['Bread', 'Toast']
+['Bread', 'Toast', 'Panatone', 'Gingerbread syrup']
+[7, 3, 5, 6]
+[9, 8, 8, 7, 7]
+[9, 8, 5, 1]
+[19, 17]
+True
+0     True 1     True 2     True 3     True 4     True 5     True 6     True 7     True 8     True 9     True 10    True 11    True 12    True 13    True 14    True 15    True 16    True 17    True 18    True 19    True Name: Branch, dtype: bool
+0
+False
+11
+4.05
+670772142
+0
+Australia
+None
+nan
+India
+['Australia', 'United Kingdom', 'India']
+['Disneyland_HongKong', 'Disneyland_California']
+Year_Month 2019-4    14 2019-3     2 2018-9     1 2019-1     1 Name: count, dtype: int64
+['Singapore', 'Malaysia', 'United Kingdom']
+[670585330, 670570869, 670443403, 670435886, 670324965]
+[670571027, 670591897, 670574142, 670205135]
+[5, 4, 4]
+[2, 3]
+True
+True
+None
+None
+1
+17369.3
+100587
+20
+nan
+We have defeated ISIS in Syria, my only reason for being there during the Trump Presidency.
+en
+nan
+['realDonaldTrump']
+['ht', 'lt']
+[[], ['IngrahamAngle'], ['MarthaMcSally', 'DougDucey'], ['realDonaldTrump']]
+['Donald J. Trump']
+[1075004324567285761, 1075011751165485056, 1075397797929775105, 1075368918204719105, 1075197395892404231]
+[1075617812285132800, 1075621115739832320, 1075159426968027136, 1075193782885326849]
+[100587, 97078, 92593, 92000, 89703, 88148]
+[6892, 7532, 10251]
+False
+20
+True
+None
+2
+0.19987631146761986
+400.0
+13
+Global Pulse
+6
+https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/007/thumb/5HABV7bJ_normal.png?1517501697
+HelpMeViz
+['Nate Silver', 'David McCandless', 'Kevin Quealy']
+['dataScienceRetreat', 'Mscx networks']
+['HelpMeViz', 'Felix Salmon', 'Kevin Quealy', 'Ezra Klein']
+['HelpMeViz', 'dataScienceRetreat', 'David McCandless']
+[6, 1, 11, 10, 0]
+[161, 162, 160, 158]
+[0.6029751067034804, 0.45340446539554213, 0.38985966578556, 0.309019312862062, 0.2725039410895426, 0.27052096820476806]
+[44.0, 56.0, 57.0]
+True
+False
+False
+True
+4
+2.5
+6
+2
+1
+None
+7
+None
+['crayfish', 'aardvark', 'cavy']
+['cavy', 'crayfish']
+[1, 4, 7, 2]
+[2, 7, 4]
+[1, 7, 2, 4]
+[4, 2, 7, 1]
+[4, 0, 2, 6]
+[6, 2, 0]
+True
+0     True 1     True 2     True 3     True 4     True 5     True 6     True 7     True 8     True 9     True 10    True 11    True 12    True 13    True 14    True 15    True 16    True 17    True 18    True 19    True Name: UnitPrice, dtype: bool
+False
+True
+20
+4.0680000000000005
+32
+20
+United Kingdom
+None
+None
+None
+['ASSORTED COLOUR BIRD ORNAMENT', 'CREAM CUPID HEARTS COAT HANGER', 'FELTCRAFT PRINCESS CHARLOTTE DOLL']
+['SET 7 BABUSHKA NESTING BOXES', 'BOX OF VINTAGE ALPHABET BLOCKS']
+['United Kingdom', 'United Arab Emirates']
+['United Arab Emirates', 'Israel']
+[536367.0, 536365.0, 536367.0, 536365.0, 536365.0]
+[536365.0, 536366.0, 536367.0, 536365.0, 536367.0]
+[6, 3, 8, 2]
+['WHITE HANGING HEART T-LIGHT HOLDER', "POPPY'S PLAYHOUSE KITCHEN"]

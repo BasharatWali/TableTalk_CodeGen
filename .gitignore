@@ -1,0 +1,26 @@
+# Data (DataBench tables and prepared CSVs are not tracked)
+data/
+*.parquet
+final2.csv
+test.csv
+
+# Generated during evaluation
+Instruct_lines1.csv
+output_file.csv
+error_rows.csv
+mismatched_rows.csv
+
+# Model checkpoints, adapters and training logs
+checkpoint-*/
+CodeLlamaInstruct_finetuned/
+runs/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+docs/
